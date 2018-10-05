@@ -1,1 +1,2 @@
 To jest mój pierwszy plik w repozytorium lokalnym.
+Teraz pora na kolejny akapit opisu.
